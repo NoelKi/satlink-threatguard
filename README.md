@@ -9,6 +9,7 @@
   </a>
   
   <h3 align="center">Physics Informed Inter-Satellite Communication Threat Detection</h3>
+  <h4 align="center">Bachelor Thesis Kieran Mai</h4>
 
   <p align="center">
     <a href="https://www.tu.berlin/raumfahrttechnik/forschung/aktuelle-projekte/raccoon"><strong>[RACCOON PROJECT]</strong></a>
